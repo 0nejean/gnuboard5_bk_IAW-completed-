@@ -90,3 +90,4 @@ https://css-validator.kldp.org/
   (의미 없는 a태그는 사용x)  
   = 전체적인 그리드 통일  
   = 반응형 할 때 밑에 스크롤 생기는 거
+- 231004 WED :
